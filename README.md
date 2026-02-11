@@ -1,7 +1,8 @@
 # Khởi động dự án tayf
 ## Cài đặt Node runtime, python runtime => latest
 1. Cài node: [Node](https://nodejs.org/en)
-2. Cài Playwright MCP: 
+2. Cài Playwright MCP:
+**Không cần tải về local, npx lo sẵn mấy cái deps này, nếu thích thì có thể tải về bằng cách này**
 ```bash:
 npm install -g @playwright/mcp (có thể sai, mn check bằng AI nhé), cc: HanTN38
 ```
